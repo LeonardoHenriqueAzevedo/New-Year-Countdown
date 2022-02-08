@@ -7,3 +7,11 @@ A website to find persons to donate blood, register them and after this we can p
 <h1 align="center">
     <img alt="Doe_GIF" title="Doe_Interface_GIF" src="github/Doe_Website_GIF.gif">
 </h1>
+
+# 💻 Technologies
+## Front End
+- **HTML**
+- **CSS**
+- **JS**
+## Back End
+- **JS**
